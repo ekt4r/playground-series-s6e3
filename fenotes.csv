@@ -1,0 +1,10 @@
+Feature Engineering,CV ROC-AUC
+No,0.9160371957560953
+Loyalty,0.9160371957560953
+Spending,0.9161151284499143
+Contract + Payment,0.9161378116284685
+Service Engagement + Internet + Early Risk,0.9161266570818444
+Value + Non-linear,0.9161782620248338
+Bins Specific,0.9161622439553113
+Bins Quartiles,0.9161863516885649
+Bins Only Quartiles,0.9161973271543878
