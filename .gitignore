@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 
 notes.txt
+/catboost_info
+/models
